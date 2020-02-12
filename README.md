@@ -1,8 +1,3 @@
-# fine-grained-sentiment
-A comparison and discussion of different NLP methods for 5-class sentiment classification on the SST-5 dataset. Learning project from https://github.com/prrao87/fine-grained-sentiment
-
-
-
 # Fine Grained Sentiment Classification
 This repo shows a comparison and discussion of various NLP methods to perform 5-class sentiment classification on the  [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/) (SST-5) dataset. The goal is to predict classes on this dataset with multiple rule-based, linear and neural network-based classifiers and see how they differ from one another.
 
